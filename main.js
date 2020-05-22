@@ -31,7 +31,7 @@
   let isPlaying = false;
 
   const img = document.createElement('img');
-  img.src = 'img/425.jpg';
+  img.src = images[currentNum];
   main.appendChild(img);
 
   images.forEach((image, index) => {
