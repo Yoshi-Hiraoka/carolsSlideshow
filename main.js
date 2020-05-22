@@ -9,21 +9,21 @@
   const stop = document.getElementById('stop');
 
   const images = [
-    'img/420.jpg',
-    'img/421.jpg',
-    'img/422.jpg',
-    'img/423.jpg',
-    'img/425.jpg',
-    'img/426.jpg',
-    'img/427.jpg',
-    'img/428.jpg',
-    'img/429.jpg',
-    'img/430.jpg',
-    'img/431.jpg',
-    'img/439.jpg',
-    'img/446.jpg',
-    'img/447.jpg',
-    'img/448.jpg',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/420-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/421-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/422-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/423-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/425-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/426-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/427-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/428-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/429-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/430-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/431-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/439-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/446-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/447-min.jpg?raw=true',
+    'https://github.com/Yoshi-Hiraoka/carolsSlideshow/blob/master/448-min.jpg?raw=true',
   ];
 
   let currentNum = 0;
